@@ -11,6 +11,9 @@ public class Test {
 		System.out.println("abcd");
 		dgr
 		efeg
+		
+		¤±¤±¤±
+		¤©¤§¤©¤©¤©¤©¤©¤©
 	}
 
 }
